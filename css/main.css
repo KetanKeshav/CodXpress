@@ -3146,11 +3146,18 @@ html.no-csstransitions .home-content__main {
     display: inline-block;
     margin: 0;
     font-size: 2rem;
+    padding: 5px;
+}
+
+.contact-social a{
+    margin-right: 15px;
+    padding-left: 5px;
+    display: inline-block;
 }
 
 .contact-social li {
     margin-right: 15px;
-    padding-left: 0;
+    padding-left: 5px;
     display: inline-block;
 }
 
